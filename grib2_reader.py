@@ -1,3 +1,6 @@
+"""
+Read the given grib2 file and export them as png files 
+"""
 # region modules
 from __future__ import print_function
 from __future__ import division
